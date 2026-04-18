@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-url = 'https://earningscall.biz/e/nasdaq/s/msft/y/2026/q/q1'
+url = 'https://earningscall.biz/e/nasdaq/s/msft/y/2021/q/q2'
 response = requests.get(url)
 
 #----ensure webpage loaded successfully----
@@ -48,7 +48,7 @@ payload = {
 
 #----Creating separate transcript files for each CET----
 def save_cet(ticker: str, date: str, data: dict):
-    out_directory = Path("cets")
+    out_directory = Path("../data/raw_data/cets")
     out_directory.mkdir(parents=True, exist_ok=True)
 
     path = out_directory / f"{ticker}_{date}.json"
