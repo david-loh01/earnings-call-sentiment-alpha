@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 from datetime import datetime
 
-url = 'https://earningscall.biz/e/nasdaq/s/msft/y/2021/q/q2'
+url = 'https://earningscall.biz/e/nasdaq/s/msft/y/2022/q/q1'
 response = requests.get(url)
 
 #----ensure webpage loaded successfully----

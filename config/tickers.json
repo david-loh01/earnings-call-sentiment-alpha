@@ -3,7 +3,7 @@
     {
       "ticker": "ACN",
       "name": "Accenture",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "ADBE",
@@ -41,11 +41,6 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "APP",
-      "name": "AppLovin",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "ANET",
       "name": "Arista Networks",
       "exchange": "nasdaq"
@@ -71,11 +66,6 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "CIEN",
-      "name": "Ciena",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "CSCO",
       "name": "Cisco",
       "exchange": "nasdaq"
@@ -86,29 +76,9 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "COHR",
-      "name": "Coherent Corp.",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "GLW",
       "name": "Corning Inc.",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "DELL",
-      "name": "Dell Technologies",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "EPAM",
@@ -118,16 +88,6 @@
     {
       "ticker": "FFIV",
       "name": "F5, Inc.",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "FICO",
-      "name": "Fair Isaac",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "FSLR",
-      "name": "First Solar",
       "exchange": "nasdaq"
     },
     {
@@ -146,14 +106,9 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "GDDY",
-      "name": "GoDaddy",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "HPQ",
@@ -163,7 +118,7 @@
     {
       "ticker": "IBM",
       "name": "IBM",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "INTC",
@@ -173,11 +128,6 @@
     {
       "ticker": "INTU",
       "name": "Intuit",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "JBL",
-      "name": "Jabil",
       "exchange": "nasdaq"
     },
     {
@@ -193,11 +143,6 @@
     {
       "ticker": "LRCX",
       "name": "Lam Research",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "LITE",
-      "name": "Lumentum",
       "exchange": "nasdaq"
     },
     {
@@ -241,23 +186,8 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "ON",
-      "name": "ON Semiconductor",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corporation",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "PANW",
-      "name": "Palo Alto Networks",
       "exchange": "nasdaq"
     },
     {
@@ -271,11 +201,6 @@
       "exchange": "nasdaq"
     },
     {
-      "ticker": "Q",
-      "name": "Qnity Electronics",
-      "exchange": "nasdaq"
-    },
-    {
       "ticker": "ROP",
       "name": "Roper Technologies",
       "exchange": "nasdaq"
@@ -283,11 +208,6 @@
     {
       "ticker": "CRM",
       "name": "Salesforce",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "SNDK",
-      "name": "Sandisk",
       "exchange": "nasdaq"
     },
     {
@@ -303,11 +223,6 @@
     {
       "ticker": "SWKS",
       "name": "Skyworks Solutions",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "SMCI",
-      "name": "Supermicro",
       "exchange": "nasdaq"
     },
     {
@@ -353,11 +268,6 @@
     {
       "ticker": "WDC",
       "name": "Western Digital",
-      "exchange": "nasdaq"
-    },
-    {
-      "ticker": "WDAY",
-      "name": "Workday, Inc.",
       "exchange": "nasdaq"
     },
     {
