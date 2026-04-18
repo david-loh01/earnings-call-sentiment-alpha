@@ -61,7 +61,7 @@ def save_cet(ticker: str, date: str, data: dict):
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
 
-    print(f"wrote {path}")
+    print(f"wrote: {path}")
 
 #----Call "save_cet"----
 save_cet(ticker, safe_date, payload)
