@@ -1,0 +1,369 @@
+{
+  "tickers": [
+    {
+      "ticker": "ACN",
+      "name": "Accenture",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "APP",
+      "name": "AppLovin",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CDW",
+      "name": "CDW Corporation",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CIEN",
+      "name": "Ciena",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CTSH",
+      "name": "Cognizant",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent Corp.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "GLW",
+      "name": "Corning Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "EPAM",
+      "name": "EPAM Systems",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "FFIV",
+      "name": "F5, Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "FICO",
+      "name": "Fair Isaac",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "FSLR",
+      "name": "First Solar",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "FTNT",
+      "name": "Fortinet",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "IT",
+      "name": "Gartner",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "GEN",
+      "name": "Gen Digital",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "GDDY",
+      "name": "GoDaddy",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "HPQ",
+      "name": "HP Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "JBL",
+      "name": "Jabil",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "KEYS",
+      "name": "Keysight Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corporation",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip Technology",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "MSI",
+      "name": "Motorola Solutions",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "NTAP",
+      "name": "NetApp",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "PTC",
+      "name": "PTC Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "Q",
+      "name": "Qnity Electronics",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "SMCI",
+      "name": "Supermicro",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TEL",
+      "name": "TE Connectivity",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TDY",
+      "name": "Teledyne Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TRMB",
+      "name": "Trimble Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "TYL",
+      "name": "Tyler Technologies",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "VRSN",
+      "name": "Verisign",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday, Inc.",
+      "exchange": "nasdaq"
+    },
+    {
+      "ticker": "ZBRA",
+      "name": "Zebra Technologies",
+      "exchange": "nasdaq"
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from pathlib import Path
+from datetime import datetime
 
 url = 'https://earningscall.biz/e/nasdaq/s/msft/y/2021/q/q2'
 response = requests.get(url)
@@ -30,7 +31,7 @@ print(f"\nTICKER SYMBOL: {ticker}")
 #print(f"DaTe: {date_tag}")
 for date_tag in soup.select("p.text-date"):#if date_tag else "unknown"
     date = date_tag.get_text(strip=True)
-    safe_date = date.replace("/", "-")
+    safe_date = datetime.strptime(date, "%m/%d/%Y").strftime("%m-%d-%Y")
 print(f"\nDATE: {safe_date}")
 
 #----Get transcript----
