@@ -28,7 +28,6 @@ tickers = [
 ]
 
 #----save to config----
-#Path(".").mkdir(exist_ok=True)
 out_path = Path(__file__).resolve().parent / "tickers.json"
 with open("./tickers.json", "w") as f:
     json.dump({"tickers": tickers}, f, indent=2)
