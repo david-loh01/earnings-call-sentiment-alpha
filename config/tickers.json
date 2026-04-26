@@ -23,7 +23,7 @@
     {
       "ticker": "APH",
       "name": "Amphenol",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "ADI",
@@ -43,7 +43,7 @@
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "ADSK",
@@ -83,7 +83,7 @@
     {
       "ticker": "EPAM",
       "name": "EPAM Systems",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "FFIV",
@@ -98,7 +98,7 @@
     {
       "ticker": "IT",
       "name": "Gartner",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "GEN",
@@ -113,7 +113,7 @@
     {
       "ticker": "HPQ",
       "name": "HP Inc.",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "IBM",
@@ -133,7 +133,7 @@
     {
       "ticker": "KEYS",
       "name": "Keysight Technologies",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "KLAC",
@@ -168,7 +168,7 @@
     {
       "ticker": "MSI",
       "name": "Motorola Solutions",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "NTAP",
@@ -188,7 +188,7 @@
     {
       "ticker": "ORCL",
       "name": "Oracle Corporation",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "PTC",
@@ -208,7 +208,7 @@
     {
       "ticker": "CRM",
       "name": "Salesforce",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "STX",
@@ -218,7 +218,7 @@
     {
       "ticker": "NOW",
       "name": "ServiceNow",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "SWKS",
@@ -233,12 +233,12 @@
     {
       "ticker": "TEL",
       "name": "TE Connectivity",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "TDY",
       "name": "Teledyne Technologies",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "TER",
@@ -258,7 +258,7 @@
     {
       "ticker": "TYL",
       "name": "Tyler Technologies",
-      "exchange": "nasdaq"
+      "exchange": "nyse"
     },
     {
       "ticker": "VRSN",
