@@ -7,7 +7,7 @@ from pathlib import Path
 from datetime import datetime
 from itertools import product
 
-# ----Configuration----
+# ----configure the out dir----
 ROOT = Path(__file__).resolve().parent.parent
 quarters_list = ["q1", "q2", "q3", "q4"]
 year_list = ["2022", "2023", "2024"]
