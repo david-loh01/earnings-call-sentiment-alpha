@@ -1,0 +1,11 @@
+{
+  "ticker": "FTNT",
+  "date": "08-03-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.223201,
+  "avg_positive": 0.333186,
+  "avg_negative": 0.109985,
+  "avg_neutral": 0.55683,
+  "sentences_scored": 356
+}

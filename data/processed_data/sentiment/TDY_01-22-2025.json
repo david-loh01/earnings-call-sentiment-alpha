@@ -1,0 +1,11 @@
+{
+  "ticker": "TDY",
+  "date": "01-22-2025",
+  "quarter": "q4",
+  "year": "2024",
+  "net_sentiment": 0.211553,
+  "avg_positive": 0.322542,
+  "avg_negative": 0.110989,
+  "avg_neutral": 0.566469,
+  "sentences_scored": 225
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "AVGO",
+  "date": "09-05-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.154655,
+  "avg_positive": 0.280696,
+  "avg_negative": 0.126041,
+  "avg_neutral": 0.593263,
+  "sentences_scored": 291
+}

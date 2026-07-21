@@ -1,0 +1,11 @@
+{
+  "ticker": "LRCX",
+  "date": "04-24-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.210153,
+  "avg_positive": 0.314557,
+  "avg_negative": 0.104404,
+  "avg_neutral": 0.581039,
+  "sentences_scored": 435
+}

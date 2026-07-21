@@ -1,0 +1,11 @@
+{
+  "ticker": "IT",
+  "date": "08-02-2022",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.341595,
+  "avg_positive": 0.442711,
+  "avg_negative": 0.101116,
+  "avg_neutral": 0.456173,
+  "sentences_scored": 374
+}

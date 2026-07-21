@@ -1,0 +1,11 @@
+{
+  "ticker": "IBM",
+  "date": "01-29-2025",
+  "quarter": "q4",
+  "year": "2024",
+  "net_sentiment": 0.436119,
+  "avg_positive": 0.506648,
+  "avg_negative": 0.070528,
+  "avg_neutral": 0.422824,
+  "sentences_scored": 319
+}

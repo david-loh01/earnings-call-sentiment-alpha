@@ -1,0 +1,11 @@
+{
+  "ticker": "CRM",
+  "date": "03-01-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.277676,
+  "avg_positive": 0.34782,
+  "avg_negative": 0.070145,
+  "avg_neutral": 0.582035,
+  "sentences_scored": 475
+}

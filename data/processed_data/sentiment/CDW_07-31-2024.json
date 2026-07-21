@@ -1,0 +1,11 @@
+{
+  "ticker": "CDW",
+  "date": "07-31-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.169667,
+  "avg_positive": 0.364717,
+  "avg_negative": 0.195051,
+  "avg_neutral": 0.440232,
+  "sentences_scored": 343
+}

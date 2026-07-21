@@ -1,0 +1,11 @@
+{
+  "ticker": "ADI",
+  "date": "11-21-2023",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.11659,
+  "avg_positive": 0.332142,
+  "avg_negative": 0.215552,
+  "avg_neutral": 0.452306,
+  "sentences_scored": 301
+}

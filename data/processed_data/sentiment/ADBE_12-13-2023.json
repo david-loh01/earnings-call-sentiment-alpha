@@ -1,0 +1,11 @@
+{
+  "ticker": "ADBE",
+  "date": "12-13-2023",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.382108,
+  "avg_positive": 0.422914,
+  "avg_negative": 0.040806,
+  "avg_neutral": 0.53628,
+  "sentences_scored": 391
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "AMAT",
+  "date": "11-17-2022",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.21838,
+  "avg_positive": 0.355435,
+  "avg_negative": 0.137055,
+  "avg_neutral": 0.50751,
+  "sentences_scored": 377
+}

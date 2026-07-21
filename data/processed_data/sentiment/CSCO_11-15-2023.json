@@ -1,0 +1,11 @@
+{
+  "ticker": "CSCO",
+  "date": "11-15-2023",
+  "quarter": "q1",
+  "year": "2024",
+  "net_sentiment": 0.251204,
+  "avg_positive": 0.360147,
+  "avg_negative": 0.108943,
+  "avg_neutral": 0.53091,
+  "sentences_scored": 285
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "KLAC",
+  "date": "10-25-2023",
+  "quarter": "q1",
+  "year": "2024",
+  "net_sentiment": 0.196425,
+  "avg_positive": 0.297919,
+  "avg_negative": 0.101494,
+  "avg_neutral": 0.600587,
+  "sentences_scored": 391
+}

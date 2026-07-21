@@ -1,0 +1,11 @@
+{
+  "ticker": "AKAM",
+  "date": "02-14-2023",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.173025,
+  "avg_positive": 0.276491,
+  "avg_negative": 0.103466,
+  "avg_neutral": 0.620042,
+  "sentences_scored": 533
+}

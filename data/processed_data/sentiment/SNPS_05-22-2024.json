@@ -1,0 +1,11 @@
+{
+  "ticker": "SNPS",
+  "date": "05-22-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.274397,
+  "avg_positive": 0.325412,
+  "avg_negative": 0.051015,
+  "avg_neutral": 0.623573,
+  "sentences_scored": 297
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "HPQ",
+  "date": "11-21-2023",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.302506,
+  "avg_positive": 0.469064,
+  "avg_negative": 0.166558,
+  "avg_neutral": 0.364377,
+  "sentences_scored": 360
+}

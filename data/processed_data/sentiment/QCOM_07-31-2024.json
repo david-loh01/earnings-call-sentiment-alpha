@@ -1,0 +1,11 @@
+{
+  "ticker": "QCOM",
+  "date": "07-31-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.268532,
+  "avg_positive": 0.339409,
+  "avg_negative": 0.070877,
+  "avg_neutral": 0.589714,
+  "sentences_scored": 297
+}

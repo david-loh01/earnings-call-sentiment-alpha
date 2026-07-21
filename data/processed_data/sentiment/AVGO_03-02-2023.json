@@ -1,0 +1,11 @@
+{
+  "ticker": "AVGO",
+  "date": "03-02-2023",
+  "quarter": "q1",
+  "year": "2023",
+  "net_sentiment": 0.181818,
+  "avg_positive": 0.28974,
+  "avg_negative": 0.107922,
+  "avg_neutral": 0.602339,
+  "sentences_scored": 505
+}

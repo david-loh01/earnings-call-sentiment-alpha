@@ -1,0 +1,11 @@
+{
+  "ticker": "NTAP",
+  "date": "05-30-2024",
+  "quarter": "q4",
+  "year": "2024",
+  "net_sentiment": 0.411931,
+  "avg_positive": 0.479746,
+  "avg_negative": 0.067815,
+  "avg_neutral": 0.452438,
+  "sentences_scored": 666
+}

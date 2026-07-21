@@ -1,0 +1,11 @@
+{
+  "ticker": "NVDA",
+  "date": "02-16-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.267656,
+  "avg_positive": 0.319737,
+  "avg_negative": 0.052081,
+  "avg_neutral": 0.628182,
+  "sentences_scored": 394
+}

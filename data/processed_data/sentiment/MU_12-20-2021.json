@@ -1,0 +1,11 @@
+{
+  "ticker": "MU",
+  "date": "12-20-2021",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.312656,
+  "avg_positive": 0.4468,
+  "avg_negative": 0.134144,
+  "avg_neutral": 0.419057,
+  "sentences_scored": 349
+}

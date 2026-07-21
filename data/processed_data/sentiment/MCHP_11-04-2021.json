@@ -1,0 +1,11 @@
+{
+  "ticker": "MCHP",
+  "date": "11-04-2021",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.101159,
+  "avg_positive": 0.25744,
+  "avg_negative": 0.156281,
+  "avg_neutral": 0.586279,
+  "sentences_scored": 417
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "TXN",
+  "date": "01-24-2023",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.079353,
+  "avg_positive": 0.222855,
+  "avg_negative": 0.143502,
+  "avg_neutral": 0.633643,
+  "sentences_scored": 292
+}

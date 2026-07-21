@@ -1,0 +1,11 @@
+{
+  "ticker": "SWKS",
+  "date": "05-03-2022",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.252827,
+  "avg_positive": 0.338611,
+  "avg_negative": 0.085784,
+  "avg_neutral": 0.575604,
+  "sentences_scored": 344
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "CDNS",
+  "date": "10-23-2023",
+  "quarter": "q3",
+  "year": "2023",
+  "net_sentiment": 0.217327,
+  "avg_positive": 0.277982,
+  "avg_negative": 0.060655,
+  "avg_neutral": 0.661363,
+  "sentences_scored": 419
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "NXPI",
+  "date": "02-06-2024",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.050126,
+  "avg_positive": 0.269862,
+  "avg_negative": 0.219736,
+  "avg_neutral": 0.510401,
+  "sentences_scored": 378
+}

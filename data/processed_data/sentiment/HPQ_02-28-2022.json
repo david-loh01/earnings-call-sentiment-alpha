@@ -1,0 +1,11 @@
+{
+  "ticker": "HPQ",
+  "date": "02-28-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.255439,
+  "avg_positive": 0.412622,
+  "avg_negative": 0.157183,
+  "avg_neutral": 0.430195,
+  "sentences_scored": 359
+}

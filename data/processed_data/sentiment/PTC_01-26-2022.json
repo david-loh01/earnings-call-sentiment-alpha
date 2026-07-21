@@ -1,0 +1,11 @@
+{
+  "ticker": "PTC",
+  "date": "01-26-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.277264,
+  "avg_positive": 0.354661,
+  "avg_negative": 0.077397,
+  "avg_neutral": 0.567942,
+  "sentences_scored": 370
+}

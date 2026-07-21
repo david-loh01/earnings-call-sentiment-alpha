@@ -1,0 +1,11 @@
+{
+  "ticker": "TEL",
+  "date": "04-26-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.189344,
+  "avg_positive": 0.328027,
+  "avg_negative": 0.138682,
+  "avg_neutral": 0.533291,
+  "sentences_scored": 393
+}

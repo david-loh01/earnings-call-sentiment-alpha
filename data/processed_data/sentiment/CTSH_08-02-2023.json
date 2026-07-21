@@ -1,0 +1,11 @@
+{
+  "ticker": "CTSH",
+  "date": "08-02-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.247201,
+  "avg_positive": 0.366261,
+  "avg_negative": 0.119061,
+  "avg_neutral": 0.514678,
+  "sentences_scored": 365
+}

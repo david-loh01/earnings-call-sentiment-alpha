@@ -1,0 +1,11 @@
+{
+  "ticker": "EPAM",
+  "date": "08-03-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.133121,
+  "avg_positive": 0.300239,
+  "avg_negative": 0.167118,
+  "avg_neutral": 0.532643,
+  "sentences_scored": 374
+}

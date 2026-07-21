@@ -1,0 +1,11 @@
+{
+  "ticker": "MSI",
+  "date": "02-08-2024",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.341924,
+  "avg_positive": 0.42114,
+  "avg_negative": 0.079216,
+  "avg_neutral": 0.499644,
+  "sentences_scored": 352
+}

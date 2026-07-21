@@ -1,0 +1,11 @@
+{
+  "ticker": "SWKS",
+  "date": "01-31-2024",
+  "quarter": "q1",
+  "year": "2024",
+  "net_sentiment": 0.183536,
+  "avg_positive": 0.330736,
+  "avg_negative": 0.1472,
+  "avg_neutral": 0.522063,
+  "sentences_scored": 306
+}

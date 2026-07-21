@@ -1,0 +1,11 @@
+{
+  "ticker": "TRMB",
+  "date": "08-06-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.232474,
+  "avg_positive": 0.315587,
+  "avg_negative": 0.083113,
+  "avg_neutral": 0.601301,
+  "sentences_scored": 329
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "TYL",
+  "date": "07-27-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.199058,
+  "avg_positive": 0.318181,
+  "avg_negative": 0.119122,
+  "avg_neutral": 0.562697,
+  "sentences_scored": 268
+}

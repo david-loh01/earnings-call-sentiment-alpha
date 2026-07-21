@@ -1,0 +1,11 @@
+{
+  "ticker": "LRCX",
+  "date": "07-27-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.181646,
+  "avg_positive": 0.304923,
+  "avg_negative": 0.123277,
+  "avg_neutral": 0.5718,
+  "sentences_scored": 870
+}

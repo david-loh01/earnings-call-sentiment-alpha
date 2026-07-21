@@ -1,0 +1,11 @@
+{
+  "ticker": "IT",
+  "date": "02-06-2024",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.30414,
+  "avg_positive": 0.417125,
+  "avg_negative": 0.112985,
+  "avg_neutral": 0.469891,
+  "sentences_scored": 455
+}

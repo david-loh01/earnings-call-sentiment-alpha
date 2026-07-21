@@ -1,0 +1,11 @@
+{
+  "ticker": "MSI",
+  "date": "11-03-2022",
+  "quarter": "q3",
+  "year": "2022",
+  "net_sentiment": 0.245162,
+  "avg_positive": 0.349133,
+  "avg_negative": 0.103972,
+  "avg_neutral": 0.546895,
+  "sentences_scored": 284
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "TDY",
+  "date": "10-26-2022",
+  "quarter": "q3",
+  "year": "2022",
+  "net_sentiment": 0.133994,
+  "avg_positive": 0.275653,
+  "avg_negative": 0.141658,
+  "avg_neutral": 0.582689,
+  "sentences_scored": 297
+}

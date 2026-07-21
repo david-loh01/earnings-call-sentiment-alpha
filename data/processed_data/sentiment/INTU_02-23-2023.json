@@ -1,0 +1,11 @@
+{
+  "ticker": "INTU",
+  "date": "02-23-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.269129,
+  "avg_positive": 0.354168,
+  "avg_negative": 0.085039,
+  "avg_neutral": 0.560793,
+  "sentences_scored": 853
+}

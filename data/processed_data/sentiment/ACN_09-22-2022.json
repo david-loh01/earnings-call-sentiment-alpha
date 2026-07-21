@@ -1,0 +1,11 @@
+{
+  "ticker": "ACN",
+  "date": "09-22-2022",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.322801,
+  "avg_positive": 0.395941,
+  "avg_negative": 0.073141,
+  "avg_neutral": 0.530918,
+  "sentences_scored": 345
+}

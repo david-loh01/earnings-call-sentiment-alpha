@@ -1,0 +1,11 @@
+{
+  "ticker": "GEN",
+  "date": "11-08-2022",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.326722,
+  "avg_positive": 0.406477,
+  "avg_negative": 0.079754,
+  "avg_neutral": 0.513769,
+  "sentences_scored": 312
+}

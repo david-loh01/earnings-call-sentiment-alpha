@@ -1,0 +1,11 @@
+{
+  "ticker": "QCOM",
+  "date": "11-02-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.173852,
+  "avg_positive": 0.332045,
+  "avg_negative": 0.158192,
+  "avg_neutral": 0.509763,
+  "sentences_scored": 310
+}

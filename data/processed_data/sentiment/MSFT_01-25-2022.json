@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "date": "01-25-2022",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.351523,
+  "avg_positive": 0.431126,
+  "avg_negative": 0.079603,
+  "avg_neutral": 0.48927,
+  "sentences_scored": 376
+}

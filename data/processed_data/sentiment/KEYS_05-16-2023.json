@@ -1,0 +1,11 @@
+{
+  "ticker": "KEYS",
+  "date": "05-16-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.299233,
+  "avg_positive": 0.423897,
+  "avg_negative": 0.124664,
+  "avg_neutral": 0.451439,
+  "sentences_scored": 277
+}

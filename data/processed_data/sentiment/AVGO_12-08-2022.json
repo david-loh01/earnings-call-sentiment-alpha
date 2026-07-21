@@ -1,0 +1,11 @@
+{
+  "ticker": "AVGO",
+  "date": "12-08-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.206259,
+  "avg_positive": 0.316485,
+  "avg_negative": 0.110225,
+  "avg_neutral": 0.57329,
+  "sentences_scored": 571
+}

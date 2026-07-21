@@ -1,0 +1,11 @@
+{
+  "ticker": "WDC",
+  "date": "04-28-2022",
+  "quarter": "q3",
+  "year": "2022",
+  "net_sentiment": 0.157673,
+  "avg_positive": 0.293637,
+  "avg_negative": 0.135964,
+  "avg_neutral": 0.5704,
+  "sentences_scored": 393
+}

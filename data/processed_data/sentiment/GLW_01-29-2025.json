@@ -1,0 +1,11 @@
+{
+  "ticker": "GLW",
+  "date": "01-29-2025",
+  "quarter": "q4",
+  "year": "2024",
+  "net_sentiment": 0.378211,
+  "avg_positive": 0.440855,
+  "avg_negative": 0.062644,
+  "avg_neutral": 0.496501,
+  "sentences_scored": 323
+}

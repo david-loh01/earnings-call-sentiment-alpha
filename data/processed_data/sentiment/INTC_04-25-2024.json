@@ -1,0 +1,11 @@
+{
+  "ticker": "INTC",
+  "date": "04-25-2024",
+  "quarter": "q1",
+  "year": "2024",
+  "net_sentiment": 0.338988,
+  "avg_positive": 0.431016,
+  "avg_negative": 0.092028,
+  "avg_neutral": 0.476955,
+  "sentences_scored": 454
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "NOW",
+  "date": "10-25-2023",
+  "quarter": "q3",
+  "year": "2023",
+  "net_sentiment": 0.340991,
+  "avg_positive": 0.394068,
+  "avg_negative": 0.053077,
+  "avg_neutral": 0.552855,
+  "sentences_scored": 398
+}

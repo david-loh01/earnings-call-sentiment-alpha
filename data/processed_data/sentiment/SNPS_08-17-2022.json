@@ -1,0 +1,11 @@
+{
+  "ticker": "SNPS",
+  "date": "08-17-2022",
+  "quarter": "q3",
+  "year": "2022",
+  "net_sentiment": 0.257099,
+  "avg_positive": 0.333748,
+  "avg_negative": 0.076649,
+  "avg_neutral": 0.589604,
+  "sentences_scored": 293
+}

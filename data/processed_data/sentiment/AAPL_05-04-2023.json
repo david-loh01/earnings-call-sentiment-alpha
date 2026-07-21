@@ -1,0 +1,11 @@
+{
+  "ticker": "AAPL",
+  "date": "05-04-2023",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.228835,
+  "avg_positive": 0.337191,
+  "avg_negative": 0.108356,
+  "avg_neutral": 0.554454,
+  "sentences_scored": 333
+}

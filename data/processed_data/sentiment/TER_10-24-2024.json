@@ -1,0 +1,11 @@
+{
+  "ticker": "TER",
+  "date": "10-24-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.17364,
+  "avg_positive": 0.264518,
+  "avg_negative": 0.090878,
+  "avg_neutral": 0.644604,
+  "sentences_scored": 322
+}

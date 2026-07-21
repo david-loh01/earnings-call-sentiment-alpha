@@ -1,0 +1,11 @@
+{
+  "ticker": "FFIV",
+  "date": "07-24-2023",
+  "quarter": "q3",
+  "year": "2023",
+  "net_sentiment": 0.192844,
+  "avg_positive": 0.339139,
+  "avg_negative": 0.146295,
+  "avg_neutral": 0.514566,
+  "sentences_scored": 353
+}

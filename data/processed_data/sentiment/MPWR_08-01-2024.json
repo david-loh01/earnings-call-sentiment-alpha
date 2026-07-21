@@ -1,0 +1,11 @@
+{
+  "ticker": "MPWR",
+  "date": "08-01-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.108044,
+  "avg_positive": 0.169958,
+  "avg_negative": 0.061914,
+  "avg_neutral": 0.768128,
+  "sentences_scored": 206
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "CSCO",
+  "date": "08-17-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.238673,
+  "avg_positive": 0.376159,
+  "avg_negative": 0.137487,
+  "avg_neutral": 0.486354,
+  "sentences_scored": 458
+}

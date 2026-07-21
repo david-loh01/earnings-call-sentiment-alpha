@@ -1,0 +1,11 @@
+{
+  "ticker": "TYL",
+  "date": "04-28-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.25411,
+  "avg_positive": 0.36072,
+  "avg_negative": 0.10661,
+  "avg_neutral": 0.53267,
+  "sentences_scored": 383
+}

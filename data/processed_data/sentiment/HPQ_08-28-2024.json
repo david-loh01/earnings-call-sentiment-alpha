@@ -1,0 +1,11 @@
+{
+  "ticker": "HPQ",
+  "date": "08-28-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.360958,
+  "avg_positive": 0.492436,
+  "avg_negative": 0.131478,
+  "avg_neutral": 0.376085,
+  "sentences_scored": 365
+}

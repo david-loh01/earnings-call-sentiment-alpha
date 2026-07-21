@@ -1,0 +1,11 @@
+{
+  "ticker": "MU",
+  "date": "09-27-2023",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.266967,
+  "avg_positive": 0.477829,
+  "avg_negative": 0.210862,
+  "avg_neutral": 0.311309,
+  "sentences_scored": 330
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "HPE",
+  "date": "02-29-2024",
+  "quarter": "q1",
+  "year": "2024",
+  "net_sentiment": 0.237019,
+  "avg_positive": 0.365552,
+  "avg_negative": 0.128533,
+  "avg_neutral": 0.505915,
+  "sentences_scored": 402
+}

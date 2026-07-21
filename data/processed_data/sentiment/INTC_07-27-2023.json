@@ -1,0 +1,11 @@
+{
+  "ticker": "INTC",
+  "date": "07-27-2023",
+  "quarter": "q2",
+  "year": "2023",
+  "net_sentiment": 0.342859,
+  "avg_positive": 0.446371,
+  "avg_negative": 0.103512,
+  "avg_neutral": 0.450117,
+  "sentences_scored": 798
+}

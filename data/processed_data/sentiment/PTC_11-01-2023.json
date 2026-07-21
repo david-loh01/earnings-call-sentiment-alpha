@@ -1,0 +1,11 @@
+{
+  "ticker": "PTC",
+  "date": "11-01-2023",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.336747,
+  "avg_positive": 0.403276,
+  "avg_negative": 0.066529,
+  "avg_neutral": 0.530195,
+  "sentences_scored": 345
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "NVDA",
+  "date": "08-22-2023",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.221706,
+  "avg_positive": 0.267301,
+  "avg_negative": 0.045595,
+  "avg_neutral": 0.687105,
+  "sentences_scored": 401
+}

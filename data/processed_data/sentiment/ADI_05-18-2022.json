@@ -1,0 +1,11 @@
+{
+  "ticker": "ADI",
+  "date": "05-18-2022",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.342992,
+  "avg_positive": 0.40817,
+  "avg_negative": 0.065178,
+  "avg_neutral": 0.526652,
+  "sentences_scored": 268
+}

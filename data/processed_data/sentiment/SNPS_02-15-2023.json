@@ -1,0 +1,11 @@
+{
+  "ticker": "SNPS",
+  "date": "02-15-2023",
+  "quarter": "q1",
+  "year": "2023",
+  "net_sentiment": 0.239588,
+  "avg_positive": 0.301451,
+  "avg_negative": 0.061863,
+  "avg_neutral": 0.636686,
+  "sentences_scored": 333
+}

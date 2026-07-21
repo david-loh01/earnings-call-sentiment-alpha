@@ -1,0 +1,11 @@
+{
+  "ticker": "EPAM",
+  "date": "05-05-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.195341,
+  "avg_positive": 0.326691,
+  "avg_negative": 0.131349,
+  "avg_neutral": 0.54196,
+  "sentences_scored": 317
+}

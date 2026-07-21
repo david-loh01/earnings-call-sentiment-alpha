@@ -1,0 +1,11 @@
+{
+  "ticker": "TER",
+  "date": "04-27-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.152866,
+  "avg_positive": 0.297499,
+  "avg_negative": 0.144632,
+  "avg_neutral": 0.557869,
+  "sentences_scored": 390
+}

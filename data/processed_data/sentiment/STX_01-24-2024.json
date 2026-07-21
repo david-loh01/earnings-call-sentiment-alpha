@@ -1,0 +1,11 @@
+{
+  "ticker": "STX",
+  "date": "01-24-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.320626,
+  "avg_positive": 0.400679,
+  "avg_negative": 0.080052,
+  "avg_neutral": 0.519269,
+  "sentences_scored": 339
+}

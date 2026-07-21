@@ -1,0 +1,11 @@
+{
+  "ticker": "ANET",
+  "date": "02-14-2023",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.19302,
+  "avg_positive": 0.29006,
+  "avg_negative": 0.09704,
+  "avg_neutral": 0.612901,
+  "sentences_scored": 490
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "INTU",
+  "date": "11-18-2021",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.266949,
+  "avg_positive": 0.342916,
+  "avg_negative": 0.075966,
+  "avg_neutral": 0.581118,
+  "sentences_scored": 414
+}

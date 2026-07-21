@@ -1,0 +1,11 @@
+{
+  "ticker": "VRSN",
+  "date": "04-27-2023",
+  "quarter": "q1",
+  "year": "2023",
+  "net_sentiment": 0.18139,
+  "avg_positive": 0.266185,
+  "avg_negative": 0.084794,
+  "avg_neutral": 0.649021,
+  "sentences_scored": 137
+}

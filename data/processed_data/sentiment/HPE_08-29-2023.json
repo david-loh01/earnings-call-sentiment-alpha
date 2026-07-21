@@ -1,0 +1,11 @@
+{
+  "ticker": "HPE",
+  "date": "08-29-2023",
+  "quarter": "q3",
+  "year": "2023",
+  "net_sentiment": 0.344325,
+  "avg_positive": 0.431792,
+  "avg_negative": 0.087467,
+  "avg_neutral": 0.480741,
+  "sentences_scored": 424
+}

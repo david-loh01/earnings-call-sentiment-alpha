@@ -1,0 +1,11 @@
+{
+  "ticker": "WDC",
+  "date": "07-31-2024",
+  "quarter": "q4",
+  "year": "2024",
+  "net_sentiment": 0.347738,
+  "avg_positive": 0.431331,
+  "avg_negative": 0.083592,
+  "avg_neutral": 0.485077,
+  "sentences_scored": 316
+}

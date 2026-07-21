@@ -1,0 +1,11 @@
+{
+  "ticker": "AAPL",
+  "date": "04-28-2022",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.201536,
+  "avg_positive": 0.334456,
+  "avg_negative": 0.132919,
+  "avg_neutral": 0.532625,
+  "sentences_scored": 351
+}

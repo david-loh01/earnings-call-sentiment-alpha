@@ -1,0 +1,11 @@
+{
+  "ticker": "FFIV",
+  "date": "01-25-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.13069,
+  "avg_positive": 0.292778,
+  "avg_negative": 0.162087,
+  "avg_neutral": 0.545135,
+  "sentences_scored": 383
+}

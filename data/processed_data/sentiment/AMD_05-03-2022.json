@@ -1,0 +1,11 @@
+{
+  "ticker": "AMD",
+  "date": "05-03-2022",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.357165,
+  "avg_positive": 0.400563,
+  "avg_negative": 0.043398,
+  "avg_neutral": 0.556039,
+  "sentences_scored": 424
+}

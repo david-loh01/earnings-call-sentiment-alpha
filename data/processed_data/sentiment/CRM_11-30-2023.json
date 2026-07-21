@@ -1,0 +1,11 @@
+{
+  "ticker": "CRM",
+  "date": "11-30-2023",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.275552,
+  "avg_positive": 0.341583,
+  "avg_negative": 0.066031,
+  "avg_neutral": 0.592386,
+  "sentences_scored": 469
+}

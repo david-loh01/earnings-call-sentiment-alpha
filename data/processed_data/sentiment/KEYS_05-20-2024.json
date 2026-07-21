@@ -1,0 +1,11 @@
+{
+  "ticker": "KEYS",
+  "date": "05-20-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.259921,
+  "avg_positive": 0.401029,
+  "avg_negative": 0.141109,
+  "avg_neutral": 0.457862,
+  "sentences_scored": 258
+}

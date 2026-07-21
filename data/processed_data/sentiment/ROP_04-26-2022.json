@@ -1,0 +1,11 @@
+{
+  "ticker": "ROP",
+  "date": "04-26-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.326787,
+  "avg_positive": 0.40108,
+  "avg_negative": 0.074292,
+  "avg_neutral": 0.524628,
+  "sentences_scored": 276
+}

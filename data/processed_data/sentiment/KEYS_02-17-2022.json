@@ -1,0 +1,11 @@
+{
+  "ticker": "KEYS",
+  "date": "02-17-2022",
+  "quarter": "q1",
+  "year": "2022",
+  "net_sentiment": 0.384265,
+  "avg_positive": 0.455311,
+  "avg_negative": 0.071046,
+  "avg_neutral": 0.473643,
+  "sentences_scored": 271
+}

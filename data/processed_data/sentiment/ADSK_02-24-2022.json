@@ -1,0 +1,11 @@
+{
+  "ticker": "ADSK",
+  "date": "02-24-2022",
+  "quarter": "q4",
+  "year": "2022",
+  "net_sentiment": 0.294114,
+  "avg_positive": 0.371269,
+  "avg_negative": 0.077155,
+  "avg_neutral": 0.551576,
+  "sentences_scored": 345
+}

@@ -1,0 +1,11 @@
+{
+  "ticker": "ROP",
+  "date": "07-24-2024",
+  "quarter": "q2",
+  "year": "2024",
+  "net_sentiment": 0.295274,
+  "avg_positive": 0.403915,
+  "avg_negative": 0.108641,
+  "avg_neutral": 0.487444,
+  "sentences_scored": 315
+}

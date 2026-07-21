@@ -1,0 +1,11 @@
+{
+  "ticker": "ZBRA",
+  "date": "05-02-2023",
+  "quarter": "q1",
+  "year": "2023",
+  "net_sentiment": 0.203766,
+  "avg_positive": 0.362554,
+  "avg_negative": 0.158787,
+  "avg_neutral": 0.478659,
+  "sentences_scored": 349
+}

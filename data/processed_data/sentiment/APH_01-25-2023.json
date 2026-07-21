@@ -1,0 +1,11 @@
+{
+  "ticker": "APH",
+  "date": "01-25-2023",
+  "quarter": "",
+  "year": "",
+  "net_sentiment": 0.279923,
+  "avg_positive": 0.410555,
+  "avg_negative": 0.130632,
+  "avg_neutral": 0.458813,
+  "sentences_scored": 441
+}

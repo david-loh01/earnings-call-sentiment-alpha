@@ -1,0 +1,11 @@
+{
+  "ticker": "STX",
+  "date": "01-26-2022",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.206493,
+  "avg_positive": 0.360089,
+  "avg_negative": 0.153596,
+  "avg_neutral": 0.486315,
+  "sentences_scored": 343
+}

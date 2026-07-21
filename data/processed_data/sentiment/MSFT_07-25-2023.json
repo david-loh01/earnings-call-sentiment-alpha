@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "date": "07-25-2023",
+  "quarter": "q4",
+  "year": "2023",
+  "net_sentiment": 0.301716,
+  "avg_positive": 0.390654,
+  "avg_negative": 0.088939,
+  "avg_neutral": 0.520407,
+  "sentences_scored": 402
+}

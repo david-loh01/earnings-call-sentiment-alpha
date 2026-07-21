@@ -1,0 +1,11 @@
+{
+  "ticker": "GLW",
+  "date": "10-24-2023",
+  "quarter": "q3",
+  "year": "2023",
+  "net_sentiment": 0.196111,
+  "avg_positive": 0.320516,
+  "avg_negative": 0.124405,
+  "avg_neutral": 0.55508,
+  "sentences_scored": 342
+}

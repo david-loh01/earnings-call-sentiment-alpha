@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "date": "04-25-2024",
+  "quarter": "q3",
+  "year": "2024",
+  "net_sentiment": 0.288908,
+  "avg_positive": 0.383485,
+  "avg_negative": 0.094577,
+  "avg_neutral": 0.521938,
+  "sentences_scored": 406
+}

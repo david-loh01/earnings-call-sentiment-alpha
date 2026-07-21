@@ -1,0 +1,11 @@
+{
+  "ticker": "CTSH",
+  "date": "07-27-2022",
+  "quarter": "q2",
+  "year": "2022",
+  "net_sentiment": 0.30646,
+  "avg_positive": 0.440825,
+  "avg_negative": 0.134365,
+  "avg_neutral": 0.42481,
+  "sentences_scored": 364
+}
