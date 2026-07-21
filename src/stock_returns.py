@@ -53,3 +53,8 @@ for company in tickers:
     data = get_daily_ohlcv(ticker)
     save_prices(ticker, data)
     time.sleep(0.5)
+
+# ----Pull XLK as market benchmark----
+print("XLK", end=" → ")
+xlk_data = get_daily_ohlcv("XLK")
+save_prices("XLK", xlk_data)
