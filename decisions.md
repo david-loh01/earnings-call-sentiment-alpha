@@ -51,7 +51,7 @@
 
 
 - Changed stock data source to "Tiingo
-	- Tiingo API-Key: 2745b29f3b5817d280936c42fbd0bc2b146af711
+	- Tiingo API-Key: *********************************
 	- Tiingo offers much more in their free tier that allows us to make these pulls free of charge
 
 
