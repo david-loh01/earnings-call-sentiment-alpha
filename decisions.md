@@ -34,7 +34,7 @@
 		 4. -> Scrape transcripts only for the validated ticker list
 		 5. -> Join them in build_dataset.py
 - Looking into best source for financial data. Alpha Vantage seems to be good. 
-	- API KEY: NWBCLOBYD09GS6MX.
+	- API KEY: *************
 
 - For ease of reading, all parts of the date that are single digit, now have a "0" appended to the beginning of them for readability.
 	- ex. 1-23-2021 -> 01-23-2021 (mm-dd-yyyy)
