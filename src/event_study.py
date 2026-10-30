@@ -8,7 +8,10 @@ ROOT     = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "data" / "processed_data" / "master.csv"
 
 # ----Load master dataset----
-df = pd.read_csv(DATA_PATH)
+#df = pd.read_csv(DATA_PATH)
+from db import get_engine
+df = pd.read_sql("SELECT * FROM earnings_events", get_engine())
+
 print(f"Loaded {len(df)} rows")
 print(f"Date range: {df['date'].min()} to {df['date'].max()}")
 print(f"Tickers: {df['ticker'].nunique()}")
