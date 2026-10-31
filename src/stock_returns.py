@@ -2,9 +2,12 @@ import requests
 import json
 import time
 from pathlib import Path
+import os
+from dotenv import load_dotenv
 
 #----supply the token & set out directory----
-tiingo_token = "2745b29f3b5817d280936c42fbd0bc2b146af711"
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+tiingo_token = os.environ["TIINGO_TOKEN"]
 out_dir = Path(__file__).resolve().parent.parent / "data" / "raw_data" / "returns_raw"
 
 #ohlcv = open, high, low, close, volume
