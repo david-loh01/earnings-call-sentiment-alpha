@@ -34,7 +34,7 @@
 		 4. -> Scrape transcripts only for the validated ticker list
 		 5. -> Join them in build_dataset.py
 - Looking into best source for financial data. Alpha Vantage seems to be good. 
-	- API KEY: NWBCLOBYD09GS6MX.
+	- API KEY: *************
 
 - For ease of reading, all parts of the date that are single digit, now have a "0" appended to the beginning of them for readability.
 	- ex. 1-23-2021 -> 01-23-2021 (mm-dd-yyyy)
@@ -51,7 +51,7 @@
 
 
 - Changed stock data source to "Tiingo
-	- Tiingo API-Key: 2745b29f3b5817d280936c42fbd0bc2b146af711
+	- Tiingo API-Key: *********************************
 	- Tiingo offers much more in their free tier that allows us to make these pulls free of charge
 
 
@@ -150,3 +150,37 @@
   - Statistical results displayed in tabbed OLS and t-test tables
   - Written findings summary auto-populated from computed results
   - Run locally with: streamlit run app/dashboard.py
+
+ Oct.30.2026
+- Added a PostgreSQL database to the project
+	- Reason: master.csv was one wide table that repeated company details in every row, dropped any transcript without matching prices, and had no rules enforcing data quality
+	- Chose PostgreSQL over MySQL: stronger analytics support (window functions, percentile_cont, regr_slope), and its SQL is closest to the cloud warehouses used by data teams (Snowflake, Redshift, BigQuery)
+- Designed a normalized schema with four tables (sql/01_schema.sql)
+	- securities: one row per ticker. XLK is stored here with is_benchmark = TRUE
+	- daily_prices: primary key is (ticker, price_date), so a ticker can never have two prices for the same day
+	- transcripts: unique on (ticker, call_date)
+	- sentiment_scores: one row per transcript, linked by transcript_id
+	- Foreign keys make the database reject any price, transcript, or score for a ticker that isn't in securities
+	- Used DOUBLE PRECISION for prices and returns so results match Python's floats exactly during validation
+- Built load_db.py to load the existing JSON files into the database
+	- Uses ON CONFLICT upserts, so re-running it updates rows instead of duplicating them. This replaces the "skip if file exists" checks
+	- Runs as a single transaction: either everything loads or nothing does
+	- Skips any ticker not in tickers.json before inserting, because a failed insert in Postgres aborts the whole transaction
+- Replaced build_dataset.py with SQL views (sql/02_views.sql)
+	- price_windows uses LEAD() to put each trading day next to the following trading day
+	- This replaces pandas_market_calendars: daily_prices only contains days the market was open, so the next row is always the next trading day
+	- earnings_events joins transcripts, sentiment, company prices, and XLK prices, and calculates all return metrics. It has the same columns as the old master.csv
+	- The XLK join also requires XLK's next trading day to equal the company's, so both returns cover the same window
+- Validated the SQL against the original Python pipeline (validate_sql.py)
+	- 619 rows in both, 0 rows missing from either side
+	- All return columns matched with differences below 0.00001. The small differences come from build_dataset.py rounding to 6 decimals
+	- Deleted build_dataset.py after validation passed
+- Added analysis queries (sql/03_analysis.sql)
+	- regr_slope cross-check reproduces the OLS coefficient from event_study.py
+	- Sentiment quintiles (NTILE), median split groups, per-company summary, largest reactions
+	- Exploratory: quarter-over-quarter change in sentiment using LAG()
+- event_study.py now reads directly from the earnings_events view with pd.read_sql
+- The dashboard still reads master.csv. Streamlit Cloud cannot reach a database running on my laptop, so export_master.py writes the view to master.csv
+- Database connection string is kept in a .env file, which is gitignored
+- PyCharm's built-in SQL runner is a paid feature, so SQL files are run with psql in the terminal or with DBeaver (free)
+- Rotate the Tiingo and Alpha Vantage API keys and move the Tiingo key into .env (they were committed to the repo)
