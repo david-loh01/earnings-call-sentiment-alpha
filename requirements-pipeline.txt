@@ -1,0 +1,10 @@
+-r requirements.txt
+requests
+beautifulsoup4
+nltk
+transformers
+torch
+pandas_market_calendars
+psycopg[binary]
+sqlalchemy
+python-dotenv
